@@ -4,6 +4,7 @@
 **smdekate/smdekate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m recent MCA graduate from Manipal University Jaipur
 - 🌱 I’m currently learning Javascript Fullstack web development (MERN stack)
@@ -12,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: here's the email smdekate@gmail.com
 - 😄 Pronouns: I will not mind if you wrongly pronounce my name
 - ⚡ Fun fact: i am getting bald, and still virgin
--->
+
