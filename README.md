@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with internship and placement
 - 📫 How to reach me: here's the email smdekate@gmail.com
 - 😄 Pronouns: I will not mind if you wrongly pronounce my name
-- ⚡ Fun fact: i am getting bald, and still virgin
 - 👉 not so consistent coding practice profile here: https://auth.geeksforgeeks.org/user/smdekate
 
