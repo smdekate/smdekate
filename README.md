@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with internship and placement
 - 📫 How to reach me: here's the email smdekate@gmail.com
 - 😄 Pronouns: I will not mind if you wrongly pronounce my name
-- 👉 coding practice profile here: [Leetcode](https://leetcode.com/smdekate/)
+- 👉 coding practice profile here: [LeetCode](https://leetcode.com/smdekate/)
 
