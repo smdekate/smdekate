@@ -1,4 +1,4 @@
-### yeah I am a fan of James Bond 👋
+### yeah Imma fan O James Bond 👋
 
 <!--
 **smdekate/smdekate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
