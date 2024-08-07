@@ -1,5 +1,4 @@
-### yeah Imma fan O James Bond 👋
-
+### Dekate, Swapnil Dekate 🍸
 <!--
 **smdekate/smdekate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
